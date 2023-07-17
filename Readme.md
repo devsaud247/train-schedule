@@ -20,7 +20,7 @@ The Train Schedule Service is a web service built with Django and Django Rest Fr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/train-schedule-service.git
+   git clone https://github.com/devsaud247/train-schedule.git
    ```
 
 2. Navigate to the project directory:
